@@ -1,0 +1,56 @@
+[
+  {
+    "id": 101,
+    "name": "Elegant Geometric Glass Vase",
+    "price": 12013.58,
+    "img": "../src/assets/img-1.webp"
+  },
+  {
+    "id": 102,
+    "name": "Zen Little Monk Statue",
+    "price": 7314.35,
+    "img": "../src/assets/img-2.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Wall Hanging Wooden Shelf",
+    "price": 3000.0,
+    "img": "../src/assets/img-3.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Abstract Porcelain Vase",
+    "price": 9104.22,
+    "img": "../src/assets/img-4.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Ceramic Home Decor Sculpture",
+    "price": 48380.63,
+    "img": "../src/assets/img-5.png"
+  },
+  {
+    "id": 106,
+    "name": "Handmade Rattan Wall Mirror",
+    "price": 2299.99,
+    "img": "../src/assets/img-6.webp"
+  },
+  {
+    "id": 107,
+    "name": "Vintage Table Lamp",
+    "price": 6490.5,
+    "img": "../src/assets/img-7.webp"
+  },
+  {
+    "id": 108,
+    "name": "Boho Woven Wall Hanging",
+    "price": 1999.0,
+    "img": "../src/assets/img-8.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Marble Decorative Tray",
+    "price": 3590.2,
+    "img": "../src/assets/img-10.webp"
+  }
+]
