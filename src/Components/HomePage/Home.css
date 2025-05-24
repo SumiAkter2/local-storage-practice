@@ -20,7 +20,7 @@ button {
   padding: 10px 100px;
   background: rgba(223, 143, 243, 0.479);
   border-radius: 3px;
-  border: 2px solid purple;
+  border: 1px solid purple;
   cursor: pointer;
   transition: all 0.1s ease-in-out;
 }

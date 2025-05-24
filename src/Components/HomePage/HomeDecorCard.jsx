@@ -1,12 +1,14 @@
-const HomeDecorCard = ({ HomeDecor }) => {
+const HomeDecorCard = ({ homeDecorProduct, handleAddToCart }) => {
   return (
     <div className="HomeDecor-card">
-      <img src={HomeDecor.img} alt="HomeDecor-img" />
-      <h4>{HomeDecor.name}</h4>
-      <h5>Price: ${HomeDecor.price}</h5>
-      <h2>Id: {HomeDecor.id}</h2>
+      <img src={homeDecorProduct.img} alt="HomeDecor-img" />
+      <h4>{homeDecorProduct.name}</h4>
+      <h5>Price: ${homeDecorProduct.price}</h5>
+      <h2>Id: {homeDecorProduct.id}</h2>
 
-      <button>Add to cart</button>
+      <button onClick={() => handleAddToCart(homeDecorProduct)}>
+        Add to cart
+      </button>
     </div>
   );
 };
